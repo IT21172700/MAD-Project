@@ -1,4 +1,10 @@
 ## Team Members:
+The lives of common people have been significantly impacted mostly by country's current economic 
+crisis.
+“Give-it” is a mobile application designed to connect individuals and organizations that wish to donate 
+to various causes with charities that need support. The app allows users to browse and donate to a 
+variety of charitable organizations and causes with ease.
+
 
 | Member | Registration Number | Name | GitHub UserName |
 | ------------- |:-------------:| -----| :-----: |
