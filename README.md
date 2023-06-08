@@ -1,4 +1,4 @@
-##Give It-Mobile Application
+## Give It-Mobile Application
 The lives of common people have been significantly impacted mostly by country's current economic 
 crisis.
 “Give-it” is a mobile application designed to connect individuals and organizations that wish to donate 
